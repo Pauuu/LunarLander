@@ -156,7 +156,7 @@ h1 {
 	z-index:3;
 }
 
-p1 {
+p {
 	color: red;
 	position: absolute;
 	top: 25%;
@@ -165,13 +165,5 @@ p1 {
 	z-index: 3;
 }
 
-p2 {
-	color: red;
-	position: absolute;
-	top: 35%;
-	left: 5%;
-	width: 40%;
-	z-index: 3;
-}
 
 
