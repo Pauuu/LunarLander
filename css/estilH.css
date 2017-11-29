@@ -13,6 +13,7 @@ body{
 	background-repeat:repeat;
 }
 
+
 .menu{
 	position:fixed;
 	display:block;
@@ -47,7 +48,19 @@ body{
 	width:33.33%;
 	height:100%;
 	float:left;
+	z-index:0;
+}
+
+.earth{
+
+	position:relative;
+
 	z-index:-1;
+}
+
+.earth img{
+	width:50%;
+	margin:25%;
 }
 
 #altura{
@@ -73,7 +86,7 @@ body{
 	padding-top:4%;
 	display: block;
 	margin: auto;
-	z-index:-1;
+	z-index:0;
 }
 
 #bocVelocidad{
@@ -82,7 +95,7 @@ body{
 	height: 45%;
 	display: block;
 	margin: auto;
-	z-index:-1;
+	z-index:0;
 }
 
 #bocAltura{
@@ -92,7 +105,7 @@ body{
 	
 	display: block;
 	margin: auto;
-	z-index:-1;
+	z-index:0;
 }
 
 #pause{
@@ -116,3 +129,22 @@ body{
 	width: 20%;
 	padding-bottom: 40px;
 }
+
+#fuel{
+	position:absolute;
+	width:2%;
+	z-index:5;
+	margin:-9%;
+	left: 58.4%;
+}
+
+.instrucciones{
+	position:fixed;
+	left:25%;
+	width:100%;
+	z-index:10;
+}
+
+
+
+

@@ -1,19 +1,19 @@
-body,html{
+body,html {
 	height:100%;
 	padding:0px;
 	margin:0px;
 }
 
-body{
-	font-size:1vw;
+body {
+	font-size:2.5vw;
 	color:#999;
-	background: url(../img/backgroundX.jpg) no-repeat center center fixed;
+	background: url(../img/background.jpg) no-repeat center center fixed;
 	background-size: cover;
 	background-size:10%;
 	background-repeat:repeat;
 }
 
-.menu{
+.menu {
 	position:absolute;
 	display:block;
 	width:18%;
@@ -28,54 +28,36 @@ body{
     height: 25%;
 }
 
-.moon{
+.moon {
 	position:fixed;
 	bottom: 0;
 	width:100%;
 }
 
-.moon img{
+.moon img {
 	position:fixed;
 	bottom: 0;
 	width:100%;
 }
 
-.nave{
+.nave {
 	padding-left:33.33%;
 	position:absolute;
 	display:inline-block;
 	width:33.33%;
 	height:100%;
 	float:left;
-	z-index:-1;
+	z-index:0;
 }
 
-#altura{
-	position:absolute;
-	color:red;
-
-	z-index:1;
-	padding-left:41%;
-	padding-top:6%;
-}
-
-#velocidad{
-	position:absolute;
-	color:red;
-
-	z-index:1;
-	padding-left:38%;
-	padding-top:12%;
-}
-
-#nave{
+#nave {
 	height: 80%;
 	display: block;
 	margin: auto;
-	z-index:-1;
+	z-index:0;
 }
 
-#bocVelocidad{
+#bocVelocidad {
 	padding-left:40%;
 	float:right;
 	height: 25%;
@@ -83,10 +65,10 @@ body{
 	position:absolute;
 	display: block;
 	margin: auto;
-	z-index:-1;
+	z-index:0;
 }
 
-#bocAltura{
+#bocAltura {
 	padding-left:38%;
 	padding-top:6%;
 	float:left;
@@ -95,27 +77,75 @@ body{
 	position:absolute;
 	display: block;
 	margin: auto;
-	z-index:-1;
+	z-index:0;
 }
 
-#pause{
+#pause {
 	height: 12%;
 }
 
-#restart{
+#restart {
 	height: 12%;
 }
 
-#info{
+#info {
 	height: 12%;
 }
 
-#press{
+#press {
 	padding-left:80%;
 }
 
-#press1{
+#press1 {
 	position: absolute;
 	width: 20%;
 	padding-bottom: 40px;
+}
+
+#fuel {
+	position:absolute;
+	width:3%;
+	z-index:5;
+	margin: -16.5%;
+	left: 65.7%;
+}
+
+.instrucciones {
+	padding-top:20%;
+	position:fixed;
+	z-index:2;
+}
+
+#ventana{
+		
+	width:100%;
+	transform: rotate(270deg);
+
+}
+
+h1 { 
+	color:red;
+	position: absolute; 
+	top: 10%; 
+	left: 30%; 
+	width: 40%; 
+	z-index:3;
+}
+
+p1 {
+	color:red;
+	position: absolute; 
+	top: 20%; 
+	left: 30%; 
+	width: 40%; 
+	z-index: 3;
+}
+
+p2 {
+	color:red;
+	position: absolute; 
+	top: 25%; 
+	left: 30%; 
+	width: 40%; 
+	z-index: 3;
 }
