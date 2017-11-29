@@ -1,0 +1,121 @@
+body,html{
+	height:100%;
+	padding:0px;
+	margin:0px;
+}
+
+body{
+	font-size:1vw;
+	color:#999;
+	background: url(../img/backgroundX.jpg) no-repeat center center fixed;
+	background-size: cover;
+	background-size:10%;
+	background-repeat:repeat;
+}
+
+.menu{
+	position:absolute;
+	display:block;
+	width:18%;
+	height:100%;
+	z-index:1;
+}
+
+.centro	{
+    position:absolute;
+    top: 5%;
+    width: 100%;
+    height: 25%;
+}
+
+.moon{
+	position:fixed;
+	bottom: 0;
+	width:100%;
+}
+
+.moon img{
+	position:fixed;
+	bottom: 0;
+	width:100%;
+}
+
+.nave{
+	padding-left:33.33%;
+	position:absolute;
+	display:inline-block;
+	width:33.33%;
+	height:100%;
+	float:left;
+	z-index:-1;
+}
+
+#altura{
+	position:absolute;
+	color:red;
+
+	z-index:1;
+	padding-left:41%;
+	padding-top:6%;
+}
+
+#velocidad{
+	position:absolute;
+	color:red;
+
+	z-index:1;
+	padding-left:38%;
+	padding-top:12%;
+}
+
+#nave{
+	height: 80%;
+	display: block;
+	margin: auto;
+	z-index:-1;
+}
+
+#bocVelocidad{
+	padding-left:40%;
+	float:right;
+	height: 25%;
+	
+	position:absolute;
+	display: block;
+	margin: auto;
+	z-index:-1;
+}
+
+#bocAltura{
+	padding-left:38%;
+	padding-top:6%;
+	float:left;
+	height: 25%;
+	
+	position:absolute;
+	display: block;
+	margin: auto;
+	z-index:-1;
+}
+
+#pause{
+	height: 12%;
+}
+
+#restart{
+	height: 12%;
+}
+
+#info{
+	height: 12%;
+}
+
+#press{
+	padding-left:80%;
+}
+
+#press1{
+	position: absolute;
+	width: 20%;
+	padding-bottom: 40px;
+}
