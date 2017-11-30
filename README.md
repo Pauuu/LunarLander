@@ -62,5 +62,5 @@ El html está minimizado con la herramienta HTMLMinimizer.
 
 * Los bocadillos pasan a estar los dos en el lado izquierdo de la nave en vez de estar en ambos lados.
 * Los los botones ahora pasan a estar de manera vertical para poder aprovechar mejor el espacio vertical que supondría un móvil.
-* Se ha ajustado los valores de la nave y fuel para que no ocupen demasiado espacio en una pantalla vertical.
+* Se han ajustado los valores de la nave y fuel para que no ocupen demasiado espacio en una pantalla vertical.
  
