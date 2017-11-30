@@ -107,11 +107,11 @@ body {
 }
 
 #fuel {
-	position:absolute;
-	width:3%;
-	z-index:5;
-	margin: -16.5%;
-	left: 65.7%;
+	position: absolute;
+	width: 5%;
+	z-index: 5;
+	left: 48.6%;
+	top: 17%;
 }
 
 .instrucciones {

@@ -129,11 +129,15 @@ body{
 }
 
 #fuel{
-	position:absolute;
-	width:2%;
-	z-index:5;
-	margin:-9%;
-	left: 58.4%;
+	position: absolute;
+	display: block;
+    width: 2%;
+    z-index: 5;
+    left: 49.4%;
+ 
+    height: 50%;
+    top: 51%;
+}
 }
 
 .instrucciones{
