@@ -1,6 +1,6 @@
 # Lunar_LanderHTML-CSS-master1
 
-Proyecto del videojuego[**Lunar Lander**](https://rawgit.com/Pauuu/LunarLander/master/LunarLander.html) escrito en html y CSS.
+Proyecto del videojuego [**Lunar Lander**](https://rawgit.com/Pauuu/LunarLander/master/LunarLander.html) escrito en html y CSS.
 Autor: Pau Vidal 
 
 ## Documentación:
@@ -50,7 +50,9 @@ Crear el estilo visual con html y CSS de un videojuego para navegador cuyo objet
 
 
 El html está minimizado con la herramienta HTMLMinimizer.
+
 [Página juego](https://github.com/Pauuu/LunarLander/blob/html-minifier/LunarLander.html) 
+
 [Página instrucciones](https://github.com/Pauuu/LunarLander/blob/html-minifier/instrucciones.html)
 
 #### CSS (Estilo horizontal)
