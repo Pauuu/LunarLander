@@ -138,7 +138,7 @@ body{
     height: 50%;
     top: 51%;
 }
-}
+
 
 .instrucciones{
 	position:fixed;
@@ -148,7 +148,9 @@ body{
 }
 
 #ventana{
-	width:50%;
+	position: absolute;
+	left: 25%;
+	width: 100%;
 }
 
 h1 { 
