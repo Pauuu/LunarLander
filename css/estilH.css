@@ -147,12 +147,6 @@ body{
 	z-index:10;
 }
 
-#ventana{
-	position: absolute;
-	left: 25%;
-	width: 50%;
-}
-
 h1 { 
 	color:red;
 	position: absolute; 
