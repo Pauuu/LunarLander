@@ -31,7 +31,7 @@ Crear el estilo visual con html y CSS de un videojuego para navegador cuyo objet
 ![](./img/earth.png)
 * Mundo. Es un añadido al fondo, pero sin ser parte de el. Es un elemento decorativo.
 
-![](./img/PRESS.png)
+![](./img/buttons/PRESS.png)
 * Boton "PRESS". De momento es un elemento sin ninguna funcion. Póximamente tendá la funcion de simular un botón con el que la nave se activará.
 
  Desde el documento que he recibido, estaban ausentes:
