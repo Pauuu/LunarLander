@@ -35,7 +35,6 @@ Crear el estilo visual con html y CSS de un videojuego para navegador cuyo objet
 
 #### CSS (Estilo horizontal)
 
-<<<<<<< HEAD
 * La nave está centrada en el contenedor junto a los dos bocadillos que están a los lados. Estos bocadillos tienen un padding para que estén al lado izquierdo y derecho de la nave respectivamente. 
 * La imagen de la luna tiene una anchura igual a la del contenedor para que ocupe el 100% del espacio horizontal.
 * El botón "PRESS" está agrandado para que ocupe un alto y ancho mayor, si no quedaba demasiado pequeño.
@@ -43,13 +42,6 @@ Crear el estilo visual con html y CSS de un videojuego para navegador cuyo objet
 * Los botones del menú estan reducidos de tamaño para poder quedarse en el lado izquierdo de la pantalla sin que se interpongan con el resto de elementos. Estan puestos de manera horizontal.
 
 #### CSS (Estilo vertical)
-=======
-[X] Fondo con propiedad repetitiva. 
-+ El fondo que me ha sido asignado (background.png) tiene unas dimensiones de 255x255px con un peso de 14,0KB.
-
-[X] Etiquetación:
-+ La nave, los bocadillos y el indicador de fuel cuentan con una etiqueta que cubre el 100% del tamaño de la pantalla en horizontal 
->>>>>>> html-minifier
 
 * Los bocadillos pasan a estar los dos en el lado izquierdo de la nave en vez de estar en ambos lados.
 * Los los botones ahora pasan a estar de manera vertical para poder aprovechar mejor el espacio vertical que supondría un móvil.
