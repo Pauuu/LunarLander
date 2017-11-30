@@ -1,6 +1,6 @@
 # Lunar_LanderHTML-CSS-master1
 
-Proyecto del videojuego **Lunar Lander** escrito en html y CSS.
+Proyecto del videojuego[**Lunar Lander]**(https://rawgit.com/Pauuu/LunarLander/master/LunarLander.html) escrito en html y CSS.
 Autor: Pau Vidal 
 
 ## Documentación:
@@ -8,7 +8,7 @@ Autor: Pau Vidal
 ### Descripción del proyecto:
 Crear el estilo visual con html y CSS de un videojuego para navegador cuyo objetivo es el de aterrizar una nave en la superficie lunar.
 
-### cambios visuales respecto al StoryBoard original:
+### Cambios visuales respecto al StoryBoard original:
 * Los botones del menú estan un poco más compactos.
 * En la versión movil, los bocadillos apuntan a la derecha y a la izquierda en vez de los dos a la derecha.
 
@@ -25,6 +25,9 @@ Crear el estilo visual con html y CSS de un videojuego para navegador cuyo objet
 ![](./img/buttons/restart.png)![](./img/buttons/pause.png)![](./img/buttons/info.png)![](./img/buttons/play.png)
 * Menú. Compuesto por tres botones (pausa/reanudar; reinicio; información). Cada uno tiene una funcion distinta.
 
+![](./img/ventana.png)
+* Ventana de instrucciones. Aquí iran escritas las instrucciones del juego.
+
 ![](./img/background.jpg)
 * Fondo. Es un fondo de estrellas. Es un elemento decorativo.
 
@@ -38,11 +41,14 @@ Crear el estilo visual con html y CSS de un videojuego para navegador cuyo objet
 * Instrucciones de como crear las etiquetas HTML. 
 
 #### HTML:
-* La nave, los bocadillos y el indicador de fuel cuentan con un contenedor que cubre el 100% del tamaño de la pantalla en horizontal. El indicador de fuele está encima de la nave.
+* La nave, los bocadillos y el indicador de fuel cuentan con un contenedor que cubre el 100% del tamaño de la pantalla en horizontal. El indicador de fuel está encima de la nave.
 * El menú se compone de un contenedor con las tres imágenes de los botones dentro. Cada boton es un link a una página distinta: el boton de pausar es un link a la página donde se escribirán las instrucciones del juego; el botón de reinicio es un link a la misma página; el botón de información un link a la misma página del juego.
 * La luna se compone de un solo contenedor con una anchura de 100% al ser una imagen con base plana.
 * La imagen del mundo está en un contenedor, independientemente de la imágen del fondo.
 * El botón "PRESS" está en un contenedor dentro del contenedor de la luna. 
+* Al presionar el botn de pausa, se redijirá a la página donde estan las instrucciones. En esa página solo se mantiene la luna y los tres botones. Además aparecerá una imagen que simula una ventana y irán escritas las instrucciones del juego.
+
+El html está minimizado con la herramienta HTMLMinimizer.
 
 #### CSS (Estilo horizontal)
 
