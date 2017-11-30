@@ -17,12 +17,18 @@ Crear el estilo visual con html y CSS de un videojuego para navegador cuyo objet
 * Nave: Sprite principal. En un futuro el jugador interactuará con la nave para poder jugar a este videojuego.
 ![](./img/speed.png) ![](./img/height.png)
 * Bocadillos. Estan a los lados de la nave (disposicion horizontal) o a un solo lado de la nave (disposicion vertical). Mostrarán información relativa a la altura y velocidad de la nave.
+![](./img/fuel.png)
 * Combustible. Da información sobre el nivel de la gasolina actual de la nave. Está ubicado en el centro de la nave.
+![](./img/moon.png)
 * Superficie lunar. Zona donde aterrizará la nave.
+![](./img/buttons/restart.png)![](./img/buttons/pause.png)![](./img/buttons/info.png)
 * Menú. Compuesto por tres botones (pausa/reanudar; reinicio; información). Cada uno tiene una funcion distinta.
+![](./img/background.png)
 * Fondo. Es un fondo de estrellas. Es un elemento decorativo.
+![](./img/earth.png)
 * Mundo. Es un añadido al fondo, pero sin ser parte de el. Es un elemento decorativo.
-* Boton "PUSH". De momento es un elemento sin ninguna funcion. Póximamente tendá la funcion de simular un botón con el que la nave se activará.
+![](./img/PRESS.png)
+* Boton "PRESS". De momento es un elemento sin ninguna funcion. Póximamente tendá la funcion de simular un botón con el que la nave se activará.
 
  Desde el documento que he recibido, estaban ausentes:
 * Instrucciones de como crear las etiquetas HTML. 
