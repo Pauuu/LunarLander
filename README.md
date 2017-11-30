@@ -48,7 +48,10 @@ Crear el estilo visual con html y CSS de un videojuego para navegador cuyo objet
 * El botón "PRESS" está en un contenedor dentro del contenedor de la luna. 
 * Al presionar el botn de pausa, se redijirá a la página donde estan las instrucciones. En esa página solo se mantiene la luna y los tres botones. Además aparecerá una imagen que simula una ventana y irán escritas las instrucciones del juego.
 
+
 El html está minimizado con la herramienta HTMLMinimizer.
+[Página juego](https://github.com/Pauuu/LunarLander/blob/html-minifier/LunarLander.html) 
+[Página instrucciones](https://github.com/Pauuu/LunarLander/blob/html-minifier/instrucciones.html)
 
 #### CSS (Estilo horizontal)
 
