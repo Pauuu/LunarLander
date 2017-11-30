@@ -21,12 +21,16 @@ Crear el estilo visual con html y CSS de un videojuego para navegador cuyo objet
 * Combustible. Da información sobre el nivel de la gasolina actual de la nave. Está ubicado en el centro de la nave.
 ![](./img/moon.png)
 * Superficie lunar. Zona donde aterrizará la nave.
-![](./img/buttons/restart.png)![](./img/buttons/pause.png)![](./img/buttons/info.png)
+
+![](./img/buttons/restart.png)![](./img/buttons/pause.png)![](./img/buttons/info.png)![](./img/buttons/play.png)
 * Menú. Compuesto por tres botones (pausa/reanudar; reinicio; información). Cada uno tiene una funcion distinta.
-![](./img/background.png)
+
+![](./img/background.jpg)
 * Fondo. Es un fondo de estrellas. Es un elemento decorativo.
+
 ![](./img/earth.png)
 * Mundo. Es un añadido al fondo, pero sin ser parte de el. Es un elemento decorativo.
+
 ![](./img/PRESS.png)
 * Boton "PRESS". De momento es un elemento sin ninguna funcion. Póximamente tendá la funcion de simular un botón con el que la nave se activará.
 
