@@ -25,9 +25,9 @@ Crear el estilo visual con html y CSS de un videojuego para navegador cuyo objet
 ### Desarrollo del proyecto:
 
 [X] Fondo con propiedad repetitiva. 
-* El fondo que me ha sido asignado (background.png) tiene unas dimensiones de 255x255px con un peso de 14,0KB.
++ El fondo que me ha sido asignado (background.png) tiene unas dimensiones de 255x255px con un peso de 14,0KB.
 
 [X] Etiquetación:
-* La nave, los bocadillos y el indicador de fuel cuentan con una etiqueta que cubre el 100% del tamaño de la pantalla en horizontal 
++ La nave, los bocadillos y el indicador de fuel cuentan con una etiqueta que cubre el 100% del tamaño de la pantalla en horizontal 
 
 ### 
