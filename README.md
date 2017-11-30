@@ -1,6 +1,6 @@
 # Lunar_LanderHTML-CSS-master1
 
-Proyecto del videojuego[**Lunar Lander]**(https://rawgit.com/Pauuu/LunarLander/master/LunarLander.html) escrito en html y CSS.
+Proyecto del videojuego[**Lunar Lander**](https://rawgit.com/Pauuu/LunarLander/master/LunarLander.html) escrito en html y CSS.
 Autor: Pau Vidal 
 
 ## Documentación:
