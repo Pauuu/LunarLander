@@ -13,7 +13,7 @@ Crear el estilo visual con html y CSS de un videojuego para navegador cuyo objet
 * En la versión movil, los bocadillos apuntan a la derecha y a la izquierda en vez de los dos a la derecha.
 
 ### Elementos que aparecen en el documento:
-![](./img/spacecraft.png)
+![](./img/spacecraft.png =250x)
 * Nave: Sprite principal. En un futuro el jugador interactuará con la nave para poder jugar a este videojuego.
 * Bocadillos. Estan a los lados de la nave (disposicion horizontal) o a un solo lado de la nave (disposicion vertical). Mostrarán información relativa a la altura y velocidad de la nave.
 * Combustible. Da información sobre el nivel de la gasolina actual de la nave. Está ubicado en el centro de la nave.
